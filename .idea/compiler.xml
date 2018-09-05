@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-framework-utils" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-framework-utils" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-framework-model" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-framework-model" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-framework-common" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-framework-common" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-api" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-api" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-cms" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-cms" />
+      </profile>
+      <profile default="false" name="Annotation profile for test-freemarker" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="test-freemarker" />
+      </profile>
+      <profile default="false" name="Annotation profile for test-rabbitmq-producer" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="test-rabbitmq-producer" />
+      </profile>
+      <profile default="false" name="Annotation profile for test-rabbitmq-consumer" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="test-rabbitmq-consumer" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-cms-client" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-cms-client" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-course" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-course" />
+      </profile>
+      <profile default="false" name="Annotation profile for test-fastDSF" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="test-fastDSF" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-base-filesystem" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-base-filesystem" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-govern-center" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-govern-center" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-search" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-search" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-media" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-media" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-media-processor" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-media-processor" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-learning" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-learning" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-ucenter-auth" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-ucenter-auth" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-ucenter" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-ucenter" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-govern-gateway" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-govern-gateway" />
+      </profile>
+      <profile default="false" name="Annotation profile for xc-service-manage-order" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="xc-service-manage-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-fastDSF" target="1.8" />
+      <module name="test-freemarker" target="1.8" />
+      <module name="test-rabbitmq-consumer" target="1.8" />
+      <module name="test-rabbitmq-producer" target="1.8" />
+      <module name="xc-framework-common" target="1.8" />
+      <module name="xc-framework-model" target="1.8" />
+      <module name="xc-framework-parent" target="1.8" />
+      <module name="xc-framework-utils" target="1.8" />
+      <module name="xc-govern-center" target="1.8" />
+      <module name="xc-govern-gateway" target="1.8" />
+      <module name="xc-service-api" target="1.8" />
+      <module name="xc-service-base-filesystem" target="1.8" />
+      <module name="xc-service-learning" target="1.8" />
+      <module name="xc-service-manage-cms" target="1.8" />
+      <module name="xc-service-manage-cms-client" target="1.8" />
+      <module name="xc-service-manage-course" target="1.8" />
+      <module name="xc-service-manage-media" target="1.8" />
+      <module name="xc-service-manage-media-processor" target="1.8" />
+      <module name="xc-service-manage-order" target="1.8" />
+      <module name="xc-service-search" target="1.8" />
+      <module name="xc-service-ucenter" target="1.8" />
+      <module name="xc-service-ucenter-auth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
